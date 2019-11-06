@@ -5,8 +5,12 @@ Aplicativo para consultar CEP através da API do VIA CEP
 Tutorial de criação deste app: http://bit.ly/2kcGFQh
 
 <p align="center">
-    <img src="https://miro.medium.com/max/1440/1*St_MBopTzlcfQzasVw1-GA.png" width="800"/>
+    <img src="https://i.ibb.co/Vw1461x/Screenshot-2019-11-06-07-54-09-235-com-example-search-cep.png height="400"/>
+    <img src="https://i.ibb.co/wL4CDVQ/Screenshot-2019-11-06-07-54-13-924-com-example-search-cep.png" height="400"/>
 </p>
+
+## RA
+
 
 ## Como clonar e importar
 
@@ -16,12 +20,14 @@ Tutorial de criação deste app: http://bit.ly/2kcGFQh
 
 ## Desafios
 
--   Criar e usar temas Light e Dart (para saber mais sobre temas [clique aqui](https://flutter.dev/docs/cookbook/design/themes), e se você quiser usar um editor de temas [clique aqui](https://rxlabz.github.io/panache/#/))
--   Criar um IconButton na AppBar para alternar entre os temas (dica: use o [plugin dynamic_theme](https://pub.dev/packages/dynamic_theme))
--   Criar um formulário para adicionar todas os campos do JSON ([formulários](https://flutter.dev/docs/cookbook/forms))
--   Validar o campo de digitação de CEP ([validações em flutter](https://medium.com/@nitishk72/form-validation-in-flutter-d762fbc9212c))
--   Tratar todas [exceções](https://www.youtube.com/watch?v=qAzxZJ8NRwI) e utilize [Flushbar](https://pub.dev/packages/flushbar) para exibir os erros para o usuário
--   Adicionar um IconButton na AppBar para compartilhar o CEP (utilize o [plugin share](https://pub.dev/packages/share))
+- [x] Criar e usar temas Light e Dart (para saber mais sobre temas [clique aqui](https://flutter.dev/docs/cookbook/design/themes), e se você quiser usar um editor de temas [clique aqui](https://rxlabz.github.io/panache/#/))
+- [x] Criar um IconButton na AppBar para alternar entre os temas (dica: use o [plugin dynamic_theme](https://pub.dev/packages/dynamic_theme))
+- [x] Criar um formulário para adicionar todas os campos do JSON ([formulários](https://flutter.dev/docs/cookbook/forms))
+- [x] Validar o campo de digitação de CEP ([validações em flutter](https://medium.com/@nitishk72/form-validation-in-flutter-d762fbc9212c))
+- [x] Tratar todas [exceções](https://www.youtube.com/watch?v=qAzxZJ8NRwI) e utilize [Flushbar](https://pub.dev/packages/flushbar) para exibir os erros para o usuário
+- [x] Adicionar um IconButton na AppBar para compartilhar o CEP (utilize o [plugin share](https://pub.dev/packages/share))
+
+
 
 ## Licença
 
