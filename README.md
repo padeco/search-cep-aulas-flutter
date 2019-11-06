@@ -10,7 +10,8 @@ Tutorial de criação deste app: http://bit.ly/2kcGFQh
 </p>
 
 ## RA
-
+Manoel : 0040481821028
+Macelo : 0040481821025
 
 ## Como clonar e importar
 
